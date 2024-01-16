@@ -35,6 +35,7 @@ function addMessage(msg) {
 <template>
   <CenterOnPage>
     <div class="chat shadow-2">
+      <h1>Awesome Work by Zhengyang Pan</h1>
       <div ref="messageListElement" class="message-list">
         <!-- Iterate over elements with v-for -->
         <ChatMessage
